@@ -1,2 +1,4 @@
 numpy>=1.21.0
 xarray>=0.20.0
+matplotlib>=3.5.0
+cartopy>=0.20.0
